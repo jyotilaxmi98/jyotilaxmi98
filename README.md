@@ -1,5 +1,5 @@
 ### Hi there 👋
-![MasterHead](https://wallpaperbat.com/img/820041-mern-stack-wallpaper.jpg)
+![MasterHead](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
 <h1 align="center">Hi 👋, I'm Jyotilaxmi Masahari</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <image align = "right"  alt="Coding"  width="400" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
@@ -25,6 +25,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jyotilaxmi98&show_icons=true&locale=en&layout=compact" alt="jyotilaxmi98" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jyotilaxmi98&show_icons=true&locale=en" alt="jyotilaxmi98" /></p>
-
-
 
