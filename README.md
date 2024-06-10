@@ -1,9 +1,8 @@
 ### Hi there 👋
 ![MasterHead](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
 <h1 align="center">Hi 👋, I'm Jyotilaxmi Masahari</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">I am a final-year M.Tech student in Computer Science and Engineering at Delhi Technological University. I am currently focused on mastering the MERN stack and am actively engaged in projects utilizing this technology. Additionally, I am honing my skills in data structures and algorithms using C++. As an enthusiastic learner, I am dedicated to improving my skill set and eagerly seeking new opportunities to grow and contribute👩‍💻</h3>
 <image align = "right"  alt="Coding"  width="400" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jyotilaxmi98" alt="jyotilaxmi98" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/jyotilaxmim" target="blank"><img src="https://img.shields.io/twitter/follow/jyotilaxmim?logo=twitter&style=for-the-badge" alt="jyotilaxmim" /></a> </p>
