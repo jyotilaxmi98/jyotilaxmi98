@@ -5,7 +5,7 @@
 <br>
 
 - 🌱 I'm currently learning **MERN**
-- 👩‍💻 I'm paasionate abput web dev and enjoy learning new things 
+- 👩‍💻 I'm paasionate about web dev and enjoy learning new things 
 - 📫 How to reach me **jyotilaxmimasahari21@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
